@@ -1,5 +1,4 @@
-## Route 
-Search site by given parameters.  
+## Route Search site by given parameters.  
 ## Assignment: 
 Search for a route to move from one point to another. The task is divided into 3 parts - settlements, trains, routes. 
 ## Settlements. 
